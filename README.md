@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/vLmwxrr/git-banner.webp" width="75%">
+  <img src="https://i.ibb.co.com/L0hvT3r/cover.jpg" width="75%">
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
