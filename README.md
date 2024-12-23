@@ -3,6 +3,7 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+I'm Forhadul Islam Fahim, a full stack developer, thrives on problem-solving and competitive programming. Staying engaged with evolving tech trends and quickly adapting to new tools and frameworks are key strengths. With expertise in both front-end and back-end technologies, crafting dynamic and user-friendly web applications comes naturally. A deep interest in innovative solutions and challenging projects drives continuous growth.
 
 - 🏦 I'm an Aspiring Web Developer
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
