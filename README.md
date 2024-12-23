@@ -9,6 +9,20 @@ I'm Forhadul Islam Fahim, a full stack developer, thrives on problem-solving and
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.js**, **.ts**, **.tsx**, **.sql**, **.c**,  **.cpp**
 ---
+### 🧑‍💻 Connect with Me:
+<div align="center">
+  <a href="https://www.linkedin.com/in/forhadul-islam-fahim-815a241a2/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30" alt="LinkedIn">
+</a>
+<a href="https://www.facebook.com/fahimcce/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" width="30" height="30" alt="Facebook">
+</a>
+<a href="mailto:fahimcce@gmail.com">
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30" height="30" alt="Email">
+</a>
+</div>
+
+---
 
 ### 🧑‍💻 Tech I work on:
 
